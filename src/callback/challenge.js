@@ -35,3 +35,9 @@ fetchData(`${API}/products`, (error1, data1) => {
     });
   })
 });
+
+/*
+  node src/callback/challenge.js
+
+  Si ponemos este script en consola hará la petición.
+*/
