@@ -16,3 +16,14 @@ const anotherFn = async () => {
 console.log('Before!');
 anotherFn();
 console.log('After');
+
+
+/*
+La salida sera: 
+
+Before!
+After
+Async!!!
+Hello!!
+
+*/
