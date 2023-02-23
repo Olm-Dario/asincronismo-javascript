@@ -12,6 +12,8 @@
   "author": "dario olmedo",
   "license": "MIT",
   "dependencies": {
-    "xmlhttprequest": "1.8.0"
-  }
+    "node-fetch": "^3.3.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type": "module"
 }
